@@ -1,2 +1,2 @@
 # New-QAOA-for-MDS
-Related experimental codes of the paper "Resource-efficient parameterized quantum circuits based on QAOA for solving the minimum dominating set problem"
+Related experimental codes of the paper "Auxiliary-Qubit-Free Quantum Approximate Optimization Algorithm for the Minimum Dominating Set Problem"
